@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 > Lets you to easily add your screenshots into device frames.
 
@@ -18,7 +18,3 @@
 
 * [Google Play](https://play.google.com/store/apps/details?id=cn.gavinliu.snapmod)
 * [Cool APK](https://www.coolapk.com/apk/201633)
-
-## Privacy Policy
-
-[Privacy Policy | 隐私政策](policy/)

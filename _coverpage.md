@@ -1,4 +1,4 @@
-![logo](assets/img/ic_launcher_play.png ':size=200')
+![logo](/assets/img/ic_launcher_play.png ':size=200')
 
 # Snapmod
 
@@ -6,4 +6,4 @@
 
 [Download](https://play.google.com/store/apps/details?id=cn.gavinliu.snapmod ':target=_blank') [Features](#Introduction)
 
-![color](#f0f0f0)
+<!-- ![color](#f0f0f0) -->
